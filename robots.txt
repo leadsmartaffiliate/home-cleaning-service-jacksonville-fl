@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home-cleaning-service-jacksonville-fl.netlify.app/sitemap.xml
